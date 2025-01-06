@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences (Resume Link will be available soon...)
 
-- ⚡ Fun fact **I think My mind is Techie**
+- ⚡ Fun fact **I try to keep things quiet**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <div align="left">
