@@ -29,7 +29,7 @@
   <a href="https://leetcode.com/jayeshpatil2418" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="35" alt="LeetCode badge" /></a>
   <a href="mailto:jayeshpatil2418@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://instagram.com/jayeshpatil.2418" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://youtube.com/@JayeshPatil2118" target="blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://youtube.com/@Techblast1827" target="blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
  <a href="https://x.com/jayeshpatil2418" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%23000000?logo=x&logoColor=white&style=for-the-badge" height="35" alt="Twitter badge" /></a>
 </div>
