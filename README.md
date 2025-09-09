@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
 <h3 align="center">A Passionate Computer Engineer from India</h3>
 
-<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshpatil2418&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshpatil2418" /> </p>--->
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshpatil1284&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshpatil1284" /> </p>--->
 
-<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshpatil2418" alt="jayeshpatil2418" /></a> </p>--->
+<!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayeshpatil1284" alt="jayeshpatil1284" /></a> </p>--->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at (Project link will be available soon...)
 
-- 📫 How to reach me **jayeshpatil2418@gmail.com**
+- 📫 How to reach me **jayeshpatil1284@gmail.com**
 
 - 📄 Know about my experiences (Resume Link will be available soon...)
 
@@ -78,8 +78,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayeshpatil2418&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshpatil2418&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayeshpatil1284&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshpatil1284&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -87,7 +87,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jayeshpatil2418&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jayeshpatil1284&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
