@@ -9,19 +9,19 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-- 🔭 I’m currently working on **Eventify: A College Event Organizer Application** (project link will be soon available)
+- 🔭 I’m currently working on **Developing a AI/ML Project**
 
-- 🌱 I’m currently learning **Flutter,Dart Programming Language**
+- 🌱 I’m currently learning **AIML**
 
-- 👯 I’m looking to collaborate on **Java Projects**
+- 👯 I’m looking to collaborate on **AIML Projects**
 
-- 👨‍💻 All of my projects are available at (Project link will be available soon...)
+- 👨‍💻 All of my projects are available at the repo
 
 - 📫 How to reach me **jayeshpatil1284@gmail.com**
 
-- 📄 Know about my experiences (Resume Link will be available soon...)
+- 📄 Know about my experiences 
 
-- ⚡ Fun fact **I try to keep things quiet**
+- ⚡ Fun fact **Solo Leveling was my first anime to watch**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <div align="left">
